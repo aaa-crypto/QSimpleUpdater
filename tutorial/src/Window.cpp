@@ -17,7 +17,7 @@
 //==============================================================================
 
 static const QString DEFS_URL = "https://raw.githubusercontent.com/"
-                                "alex-spataru/QSimpleUpdater/master/tutorial/"
+                                "tangqslt/QSimpleUpdater/master/tutorial/"
                                 "definitions/updates.json";
 
 //==============================================================================
