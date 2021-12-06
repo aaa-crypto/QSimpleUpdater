@@ -5,28 +5,28 @@
       "open-url": "",
       "latest-version": "1.0",
       "download-url": "https://raw.githubusercontent.com/aaa-crypto/QSimpleUpdater/tangqslt-patch-1/tutorial/download/busInsight_Install_v1.3.7_setup.exe",
-      "changelog": "This is an example changelog for Windows. Go on...",
+      "changelog": "This is a busInsight",
       "mandatory": true
       },
       "WIZBUS-5242": {
         "open-url": "",
         "latest-version": "1.0",
         "download-url": "https://raw.githubusercontent.com/tangqslt/QSimpleUpdater/tangqslt-patch-1/tutorial/download/busInsight_Install_v1.3.7_setup.exe",
-        "changelog": "This is an example changelog for Windows. Go on...",
+        "changelog": "This is a WizBus-5242",
         "mandatory": true
         },
       "WIZBUS-5252": {
           "open-url": "",
           "latest-version": "1.0",
           "download-url": "https://raw.githubusercontent.com/tangqslt/QSimpleUpdater/tangqslt-patch-1/tutorial/download/busInsight_Install_v1.3.7_setup.exe",
-          "changelog": "This is an example changelog for Windows. Go on...",
+          "changelog": "This is a WizBus-5252",
           "mandatory": true
           },
         "NewProduct": {
           "open-url": "",
           "latest-version": "1.0",
           "download-url": "https://raw.githubusercontent.com/tangqslt/QSimpleUpdater/tangqslt-patch-1/tutorial/download/busInsight_Install_v1.3.7_setup.exe",
-          "changelog": "This is an example changelog for Windows. Go on...",
+          "changelog": "This is new product info",
           "mandatory": true
           } 
       }   
